@@ -2,8 +2,12 @@
 Small coding projects regarding different topics.
 
 
+Also relevant license is the Apache License 2.0 due to the use of anytree.
 
-Also relevant license ist the ZPL due to the use of zope.interface!
+Also relevant license is the Python Software Foundation License.
+
+Also relevant license is the Zope Public License (ZPL) Version 2.1 due to the use of zope.interface.
+
 
 Zope Public License (ZPL) Version 2.1
 
@@ -53,9 +57,3 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 
-Also relevant is the Apache License 2.0 due to th euse of anytree.
-
-
-
-
-Also relevant is the Python Software Foundation License.
