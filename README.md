@@ -1,6 +1,8 @@
 # workshop
 Small coding projects regarding different topics.
 
+
+
 Also relevant license ist the ZPL due to the use of zope.interface!
 
 Zope Public License (ZPL) Version 2.1
@@ -47,3 +49,13 @@ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+Also relevant is the Apache License 2.0 due to th euse of anytree.
+
+
+
+
+Also relevant is the Python Software Foundation License.
